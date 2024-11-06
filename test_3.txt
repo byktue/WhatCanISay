@@ -1,0 +1,13 @@
+推荐朋友的朋友（共同朋友数）：
+will-ww: 6 个共同朋友
+zhicheng-ning: 6 个共同朋友
+lhbvvvvv: 6 个共同朋友
+Zzzzzhuzhiwei: 6 个共同朋友
+PureNatural: 6 个共同朋友
+
+按连接强度推荐的用户：
+Aarebecca: 连接强度 25.3
+pomelo-nwu: 连接强度 25.09
+yangzy0603: 连接强度 11.85
+tyn1998: 连接强度 9.62
+yvonneyx: 连接强度 7.39
